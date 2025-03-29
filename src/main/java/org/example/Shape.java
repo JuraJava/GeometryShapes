@@ -2,7 +2,7 @@ package org.example;
 
 abstract class Shape {
 
-    protected String title;
+    String title;
 
     public Shape(String title) {
         this.title = title;
